@@ -3,6 +3,6 @@ This repository contains 547 boutons--proofread by hand in Webknossos--whose EM 
 
 <img width="596" height="593" alt="image" src="https://github.com/user-attachments/assets/bf28ad03-a30c-40b8-a133-2cad79d9576c" />
 
-(Example. Bouton_097)
+*Example: Bouton_097*
 
 The 3D reconstructions will be linked from an interactive HDBSCAN cluster plot to assist in determining the clusters generated from SegCLR embeddings.
